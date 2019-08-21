@@ -11,3 +11,4 @@ TMessagesProj/src/main/java/org/telegram/messenger/BuildVars.java
 .externalNativeBuild/
 
 google-services.json
+captures/
