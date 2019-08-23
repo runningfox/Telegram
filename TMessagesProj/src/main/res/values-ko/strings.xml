@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="AppName">텔레그램</string>
-    <string name="AppNameBeta">Telegram Beta</string>
+    <string name="AppNameBeta">HiChat Beta</string>
     <string name="LanguageName">한국어</string>
     <string name="English">영어</string>
     <string name="LanguageNameInEnglish">한국어</string>
@@ -46,7 +46,7 @@
     <string name="ResetAccountButton">초기화</string>
     <string name="CancelLinkExpired">링크가 폐기됐거나 만료했습니다.</string>
     <string name="CancelLinkSuccess">%1$s 계정을 탈퇴하는 작업이 취소되었습니다. 이제 이 창을 닫으셔도 좋습니다.</string>
-    <string name="OtherLoginCode">Your login code is **%1$s**. Enter it in the Telegram app where you are trying to log in.\n\nDo not give this code to anyone.</string>
+    <string name="OtherLoginCode">Your login code is **%1$s**. Enter it in the HiChat app where you are trying to log in.\n\nDo not give this code to anyone.</string>
     <!--signup view-->
     <string name="YourName">성명</string>
     <string name="RegisterText2">회원님의 성함을 입력하고 프로필 사진을 업로드해 주세요.</string>
@@ -752,7 +752,7 @@
     <string name="AddContactChat">연락처에 추가</string>
     <string name="AddContactFullChat">ADD %1$s TO CONTACTS</string>
     <string name="ViewContact">연락처 보기</string>
-    <string name="BlockUserAlert">Do you want to block **%1$s** from messaging and calling you on Telegram?</string>
+    <string name="BlockUserAlert">Do you want to block **%1$s** from messaging and calling you on HiChat?</string>
     <string name="ReportSpamAlert">정말 이 사용자가 보낸 스팸을 신고하시겠습니까?</string>
     <string name="ReportSpamAlertGroup">이 그룹 메시지를 스팸신고 하시겠습니까?</string>
     <string name="ReportSpamAlertChannel">이 채널을 스팸 신고하시겠습니까?</string>
@@ -2067,7 +2067,7 @@
     <string name="PrivacyProfilePhotoInfo2">이 설정은 앞선 설정보다 우선합니다.</string>
     <string name="PrivacyPhone">전화번호</string>
     <string name="PrivacyPhoneTitle">내 전화번호를 볼 수 있는 사람</string>
-    <string name="PrivacyPhoneInfo">Users who already have your number saved in their contacts will see it on Telegram.</string>
+    <string name="PrivacyPhoneInfo">Users who already have your number saved in their contacts will see it on HiChat.</string>
     <string name="PrivacyPhoneInfo2">You can add users or entire groups as exceptions that will override the settings above.</string>
     <string name="PrivacyForwards">전달된 메시지</string>
     <string name="PrivacyForwardsEverybody">회원님 계정으로 연결합니다</string>
