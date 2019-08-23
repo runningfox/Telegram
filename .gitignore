@@ -12,3 +12,4 @@ TMessagesProj/src/main/java/org/telegram/messenger/BuildVars.java
 
 google-services.json
 captures/
+.cxx/
